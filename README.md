@@ -42,6 +42,7 @@ Some Constitutional Sources:
   
   
 BRICS members:
+
   [Brazil](https://www.constituteproject.org/constitution/Brazil_2017)
   
   [Russia](https://www.constituteproject.org/constitution/Russia_2014)
@@ -72,6 +73,7 @@ US aligned:
 [South Korea](https://www.constituteproject.org/constitution/Republic_of_Korea_1987)
 
 US opposed:
+
 [North Korea](https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_2016)
 
 [Palestine](https://www.constituteproject.org/constitution/Palestine_2005)
