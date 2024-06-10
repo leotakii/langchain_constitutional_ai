@@ -1,4 +1,4 @@
-Adapting Real Life constitutions into the Constitutional AI method.
+# Adapting Real Life Constitutions into the Constitutional AI approach and Improving the outputs via Debate AI .
 
 The idea came up after i noticed that while Anthropic's Constitutional AI (https://www.anthropic.com/news/claudes-constitution) is based on the Universal Declaration of Human Rights, there may be some biases about legal and moral aspects, even between different english speaking countries. Also the english language comprises about 50% (https://w3techs.com/technologies/overview/content_language) of the text data over websites in general, so there may be many viewpoints written in different languages that aren't being considered by the current models, making them heavily biased toward the views of the english speaking society.
 
@@ -9,7 +9,7 @@ With this in mind, i'm proposing a method in which Constitutional AIs based on d
 However, due to the political divide phenomenon, many countries, specially the democratic ones are having inner struggles about what is right or wrong and where the future of society should be directed on.
 Meanwhile non-democratic governments could exploit this weakness by using AI models finetuned to impose their own agenda into fragilized countries, via deception, manipulation or by force.
 
-Some Constitutional Sources:
+## Constitutional Sources
   English speaking countries:
   
   [USA](https://www.constituteproject.org/constitution/United_States_of_America_1992)
@@ -80,20 +80,26 @@ US opposed:
 
 
 
-Framework:
-A really promising framework that gives support to many different LLMs (e.g. GPT, Claude, Gemini) while
+LangChain Framework:
+A really promising framework that gives support to many different LLMs (e.g. GPT, Claude, Gemini) while also being able to rapidly quickstart prototypes into production.
 
 LangChain: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
 LangGraph: Build robust and stateful multi-actor applications with LLMs by modeling steps as edges and nodes in a graph.
 LangServe: Deploy LangChain chains as REST APIs.
 LangSmith: A developer platform that lets you debug, test, evaluate, and monitor LLM applications.
 
+Learn more about it in: https://www.langchain.com/
+
+Using the Constitutional Chain, it is possible to with basically the same code access APIs from many different models, 
 https://python.langchain.com/v0.1/docs/guides/productionization/safety/constitutional_chain/
 
 
-
-Testing the models with prompts based on these sources:
+Firstly, i plan testing the models invididually with prompts based on these sources:
 https://www.hrw.org/world-report/2024
 https://ground.news/
 
-Few shotting vs Finetuning
+Few-shotting vs Fine-tuning
+A question i had about this project is how differently a Constitutional AI model would behave if it was properly fine-tuned with real life constitutional data instead of being asked to follow certain instructions by few-shotting.
+
+Interesting reads:
+https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/intersection-of-lgbtq-rights-and-religious-freedom/worldviews-colliding/
