@@ -84,22 +84,27 @@ LangChain Framework:
 A really promising framework that gives support to many different LLMs (e.g. GPT, Claude, Gemini) while also being able to rapidly quickstart prototypes into production.
 
 LangChain: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
+
 LangGraph: Build robust and stateful multi-actor applications with LLMs by modeling steps as edges and nodes in a graph.
+
 LangServe: Deploy LangChain chains as REST APIs.
+
 LangSmith: A developer platform that lets you debug, test, evaluate, and monitor LLM applications.
+
 
 Learn more about it in: https://www.langchain.com/
 
-Using the Constitutional Chain, it is possible to with basically the same code access APIs from many different models, 
-https://python.langchain.com/v0.1/docs/guides/productionization/safety/constitutional_chain/
-
+Using the [Constitutional Chain](https://python.langchain.com/v0.1/docs/guides/productionization/safety/constitutional_chain/), it is possible to with basically the same code access APIs from many different models.
 
 Firstly, i plan testing the models invididually with prompts based on these sources:
+
 https://www.hrw.org/world-report/2024
+
 https://ground.news/
 
 Few-shotting vs Fine-tuning
 A question i had about this project is how differently a Constitutional AI model would behave if it was properly fine-tuned with real life constitutional data instead of being asked to follow certain instructions by few-shotting.
 
 Interesting reads:
+
 https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/intersection-of-lgbtq-rights-and-religious-freedom/worldviews-colliding/
