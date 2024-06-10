@@ -25,36 +25,56 @@ Some Constitutional Sources:
   [Ireland](https://www.constituteproject.org/constitution/Ireland_2019)
 
   Non-english speaking countries:
+  
   [France](https://www.constituteproject.org/constitution/France_2008)
+  
   [Germany](https://www.constituteproject.org/constitution/German_Federal_Republic_2014)
+  
   [Japan](https://www.constituteproject.org/constitution/Japan_1946)
+  
   [Italy](https://www.constituteproject.org/constitution/Italy_2020)
+  
   [Mexico](https://www.constituteproject.org/constitution/Mexico_2015)
+  
   [Spain](https://www.constituteproject.org/constitution/Spain_2011)
+  
   [Indonesia](https://www.constituteproject.org/constitution/Indonesia_2002)
   
   
 BRICS members:
-  (https://www.constituteproject.org/constitution/Brazil_2017)
-  (https://www.constituteproject.org/constitution/Russia_2014)
-  (https://www.constituteproject.org/constitution/India_2016)
-  (https://www.constituteproject.org/constitution/China_2018)
-  (https://www.constituteproject.org/constitution/South_Africa_2012)
-  (https://www.constituteproject.org/constitution/Iran_1989)
-  (https://www.constituteproject.org/constitution/Egypt_2019)
-  (https://www.constituteproject.org/constitution/Ethiopia_1994)
-  (https://www.constituteproject.org/constitution/United_Arab_Emirates_2009)
+  [Brazil](https://www.constituteproject.org/constitution/Brazil_2017)
+  
+  [Russia](https://www.constituteproject.org/constitution/Russia_2014)
+  
+  [India](https://www.constituteproject.org/constitution/India_2016)
+  
+  [China](https://www.constituteproject.org/constitution/China_2018)
+  
+  [South Africa](https://www.constituteproject.org/constitution/South_Africa_2012)
+  
+  [Iran](https://www.constituteproject.org/constitution/Iran_1989)
+  
+  [Egypt](https://www.constituteproject.org/constitution/Egypt_2019)
+  
+  [Ethiopia](https://www.constituteproject.org/constitution/Ethiopia_1994)
+  
+  [United Arab Emirates](https://www.constituteproject.org/constitution/United_Arab_Emirates_2009)
 
 
 US aligned:
-(https://www.constituteproject.org/constitution/Israel_2013)
-(https://www.constituteproject.org/constitution/Ukraine_2019)
-(https://www.constituteproject.org/constitution/Taiwan_2005)
-(https://www.constituteproject.org/constitution/Republic_of_Korea_1987)
+
+[Israel](https://www.constituteproject.org/constitution/Israel_2013)
+
+[Ukraine](https://www.constituteproject.org/constitution/Ukraine_2019)
+
+[Taiwan](https://www.constituteproject.org/constitution/Taiwan_2005)
+
+[South Korea](https://www.constituteproject.org/constitution/Republic_of_Korea_1987)
 
 US opposed:
-(https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_2016)
-(https://www.constituteproject.org/constitution/Palestine_2005)
+[North Korea](https://www.constituteproject.org/constitution/Peoples_Republic_of_Korea_2016)
+
+[Palestine](https://www.constituteproject.org/constitution/Palestine_2005)
 
 
 
