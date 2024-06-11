@@ -1,4 +1,4 @@
-# Adapting Real Life Constitutions into the Constitutional AI approach and Improving the outputs via Debate AI .
+# Adapting Real Life Constitutions into the Constitutional AI approach and Improving the outputs via Debate AI
 
 The idea came up after i noticed that while Anthropic's Constitutional AI (https://www.anthropic.com/news/claudes-constitution) is based on the Universal Declaration of Human Rights, there may be some biases about legal and moral aspects, even between different english speaking countries. Also the english language comprises about 50% (https://w3techs.com/technologies/overview/content_language) of the text data over websites in general, so there may be many viewpoints written in different languages that aren't being considered by the current models, making them heavily biased toward the views of the english speaking society.
 
