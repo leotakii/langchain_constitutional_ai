@@ -80,8 +80,8 @@ US opposed:
 
 
 
-## LangChain Framework:
-A really promising framework that gives support to many different LLMs (e.g. GPT, Claude, Gemini) while also being able to rapidly quickstart prototypes into production.
+## Methodology
+LangChain is a really promising framework that gives support to many different LLMs (e.g. GPT, Claude, Gemini) while also being able to rapidly quickstart prototypes into production.
 
 LangChain: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
 
