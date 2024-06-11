@@ -103,7 +103,8 @@ https://www.hrw.org/world-report/2024
 https://ground.news/
 
 Few-shotting vs Fine-tuning
-A question i had about this project is how differently a Constitutional AI model would behave if it was properly fine-tuned with real life constitutional data instead of being asked to follow certain instructions by few-shotting.
+
+A question i had about this project is how differently a Constitutional AI model would behave if it was properly fine-tuned with real life constitutional data instead of being asked to follow certain instructions by few-shotting. https://labelbox.com/guides/zero-shot-learning-few-shot-learning-fine-tuning/
 
 Interesting reads:
 
