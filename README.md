@@ -94,13 +94,41 @@ LangSmith: A developer platform that lets you debug, test, evaluate, and monitor
 
 Learn more about it in: https://www.langchain.com/
 
-Using the [Constitutional Chain](https://python.langchain.com/v0.1/docs/guides/productionization/safety/constitutional_chain/), it is possible to with basically the same code access APIs from many different models.
+By using the [Constitutional Chain](https://python.langchain.com/v0.1/docs/guides/productionization/safety/constitutional_chain/), it is possible to with a few parameter changes, use the same code to access APIs from many different models.
 
-Firstly, i plan testing the models invididually with prompts based on these sources:
+
+Generate Constitutional Prompts by asking the model to review the Claude Constitutional Prompts and for it to find biases, explain the reasoning and rewrite the prompts. Human Feedback is required to review the prompts.
+
+Generate Constitutional Prompts following the structure of Claude's Constitution but this time based on a Real Life Constitution. The [Constitute Project](https://www.constituteproject.org/) classifies paragraphs/sections/articles by topic, 
+so there is a way to check if there are constitutional gaps or use them to produce a Constitutional Prompt.
+
+## Example
+
+### Canada
+
+CONSTITUTION ACT 1982 > PART I. CANADIAN CHARTER OF RIGHTS AND FREEDOMS > F. EQUALITY RIGHTS > 15
+
+1. Equality before and under law and equal protection and benefit of law
+
+Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+
+### United States of America
+
+Additional Amendments > Amendment XV
+
+Section 1
+
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+
+To evaluate the performance (metric/heuristic needed?) of the Constitutional Prompts, i plan testing the models invididually with prompts based on these sources:
 
 https://www.hrw.org/world-report/2024
 
 https://ground.news/
+
+
+
 
 Few-shotting vs Fine-tuning
 
