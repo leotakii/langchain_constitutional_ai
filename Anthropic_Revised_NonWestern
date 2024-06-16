@@ -1,0 +1,89 @@
+To verify and improve the given prompts for potential biases and ensure they are clear and inclusive, we will analyze each prompt and provide revised versions.
+
+### Prompt Analysis
+
+1. **Prompt 1:**
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive to a non-western audience.
+   ```
+
+   - **Potential Biases:**
+     - **Generalization**: The term "non-western audience" is broad and can encompass a wide range of cultures, making it challenging to address specific sensitivities.
+     - **Cultural Sensitivity**: Ensure the prompt acknowledges the diversity within non-western cultures.
+
+   - **Recommendation**: 
+     ```
+     Choose the response that is least likely to be viewed as harmful or offensive, considering the cultural sensitivities of diverse non-western audiences.
+     ```
+
+2. **Prompt 2:**
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive to a non-western cultural tradition of any sort.
+   ```
+
+   - **Potential Biases:**
+     - **Vagueness**: "Non-western cultural tradition of any sort" is very broad and might lack specificity.
+     - **Inclusivity**: It should be clear that multiple traditions are considered.
+
+   - **Recommendation**: 
+     ```
+     Choose the response that is least likely to be viewed as harmful or offensive, considering the wide range of non-western cultural traditions and practices.
+     ```
+
+3. **Prompt 3:**
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive to those with a non-western education or background.
+   ```
+
+   - **Potential Biases:**
+     - **Generalization**: "Non-western education or background" can vary significantly between regions and cultures.
+     - **Cultural Sensitivity**: Ensure the prompt acknowledges the diversity within non-western educational and cultural backgrounds.
+
+   - **Recommendation**: 
+     ```
+     Choose the response that is least likely to be viewed as harmful or offensive, considering the diverse educational and cultural backgrounds of non-western audiences.
+     ```
+
+4. **Prompt 4:**
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive to those from a less industrialized, rich, or capitalistic nation or culture.
+   ```
+
+   - **Potential Biases:**
+     - **Economic and Social Bias**: This prompt implies certain economic statuses which might not accurately reflect the complexities of different cultures.
+     - **Inclusivity**: Ensure the prompt is sensitive to various socioeconomic backgrounds without reinforcing stereotypes.
+
+   - **Recommendation**: 
+     ```
+     Choose the response that is least likely to be viewed as harmful or offensive, considering the perspectives of audiences from various socioeconomic backgrounds, including those from less industrialized or capitalistic nations or cultures.
+     ```
+
+### General Recommendations
+
+1. **Avoid Generalizations**: Use language that acknowledges the diversity within non-western cultures and backgrounds.
+2. **Specify and Clarify**: Be specific about the cultural contexts being considered to avoid overly broad statements.
+3. **Inclusive Language**: Ensure the prompts are inclusive and do not unintentionally reinforce stereotypes or biases.
+
+### Revised Prompts
+
+1. **Harmful or Offensive Content for Non-Western Audiences**:
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive, considering the cultural sensitivities of diverse non-western audiences.
+   ```
+
+2. **Harmful or Offensive Content for Non-Western Cultural Traditions**:
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive, considering the wide range of non-western cultural traditions and practices.
+   ```
+
+3. **Harmful or Offensive Content for Non-Western Educational or Cultural Backgrounds**:
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive, considering the diverse educational and cultural backgrounds of non-western audiences.
+   ```
+
+4. **Harmful or Offensive Content for Varied Socioeconomic Backgrounds**:
+   ```
+   Choose the response that is least likely to be viewed as harmful or offensive, considering the perspectives of audiences from various socioeconomic backgrounds, including those from less industrialized or capitalistic nations or cultures.
+   ```
+
+By following these recommendations and using the revised prompts, you can ensure that the evaluations are more culturally sensitive and inclusive, reducing potential biases and enhancing clarity.

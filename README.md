@@ -1,4 +1,4 @@
-# Adapting Real Life Constitutions into the Constitutional AI approach and Improving the outputs via Debate AI .
+# Adapting Real Life Constitutions into the Constitutional AI approach and Improving the outputs via Debate AI
 
 The idea came up after i noticed that while Anthropic's Constitutional AI (https://www.anthropic.com/news/claudes-constitution) is based on the Universal Declaration of Human Rights, there may be some biases about legal and moral aspects, even between different english speaking countries. Also the english language comprises about 50% (https://w3techs.com/technologies/overview/content_language) of the text data over websites in general, so there may be many viewpoints written in different languages that aren't being considered by the current models, making them heavily biased toward the views of the english speaking society.
 
@@ -80,8 +80,8 @@ US opposed:
 
 
 
-LangChain Framework:
-A really promising framework that gives support to many different LLMs (e.g. GPT, Claude, Gemini) while also being able to rapidly quickstart prototypes into production.
+## Methodology
+LangChain is a really promising framework that gives support to many different LLMs (e.g. GPT, Claude, Gemini) while also being able to rapidly quickstart prototypes into production.
 
 LangChain: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
 
@@ -94,16 +94,45 @@ LangSmith: A developer platform that lets you debug, test, evaluate, and monitor
 
 Learn more about it in: https://www.langchain.com/
 
-Using the [Constitutional Chain](https://python.langchain.com/v0.1/docs/guides/productionization/safety/constitutional_chain/), it is possible to with basically the same code access APIs from many different models.
+By using the [Constitutional Chain](https://python.langchain.com/v0.1/docs/guides/productionization/safety/constitutional_chain/), it is possible to with a few parameter changes, use the same code to access APIs from many different models.
 
-Firstly, i plan testing the models invididually with prompts based on these sources:
+
+Generate Constitutional Prompts by asking the model to review the Claude Constitutional Prompts and for it to find biases, explain the reasoning and rewrite the prompts. Human Feedback is required to review the prompts.
+
+Generate Constitutional Prompts following the structure of Claude's Constitution but this time based on a Real Life Constitution. The [Constitute Project](https://www.constituteproject.org/) classifies paragraphs/sections/articles by topic, 
+so there is a way to check if there are constitutional gaps or use them to produce a Constitutional Prompt.
+
+## Example
+
+### Canada
+
+CONSTITUTION ACT 1982 > PART I. CANADIAN CHARTER OF RIGHTS AND FREEDOMS > F. EQUALITY RIGHTS > 15
+
+1. Equality before and under law and equal protection and benefit of law
+
+Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+
+### United States of America
+
+Additional Amendments > Amendment XV
+
+Section 1
+
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+
+To evaluate the performance (metric/heuristic needed?) of the Constitutional Prompts, i plan testing the models invididually with prompts based on these sources:
 
 https://www.hrw.org/world-report/2024
 
 https://ground.news/
 
+
+
+
 Few-shotting vs Fine-tuning
-A question i had about this project is how differently a Constitutional AI model would behave if it was properly fine-tuned with real life constitutional data instead of being asked to follow certain instructions by few-shotting.
+
+A question i had about this project is how differently a Constitutional AI model would behave if it was properly fine-tuned with real life constitutional data instead of being asked to follow certain instructions by few-shotting. https://labelbox.com/guides/zero-shot-learning-few-shot-learning-fine-tuning/
 
 Interesting reads:
 
