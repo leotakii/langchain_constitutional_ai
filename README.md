@@ -7,7 +7,7 @@ human society overrall if the average person blindly trusts the model's judgemen
 With this in mind, i'm proposing a method in which Constitutional AIs based on different worldviews (https://www.constituteproject.org/constitution) should via debate (https://openai.com/index/debate/) try to reach consensus (https://www.ungeneva.org/en/about/topics) about how a prompt should be rewritten, if needed.
 
 However, due to the political divide phenomenon, many countries, specially the democratic ones are having inner struggles about what is right or wrong and where the future of society should be directed on.
-Meanwhile non-democratic governments could exploit this weakness by using AI models finetuned to impose their own agenda into fragilized countries, via deception, manipulation or by force.
+Meanwhile non-democratic governments could exploit this weakness by using AI models fine-tuned to impose their own agenda into fragilized countries, via deception, manipulation or by force.
 
 ## Constitutional Sources
   English speaking countries:
